@@ -19,3 +19,7 @@
 * Kotlin
 * Jetpack Compose
 * Android Studio
+
+### Low-fi прототип
+
+![Прототип](low-fi.png)
