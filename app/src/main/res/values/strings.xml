@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Noah Family</string>
+
+    <string name="noah1">Adam</string>
+    <string name="noah2">Tryde</string>
+    <string name="noah3">Joyd</string>
+    <string name="noah4">Desires</string>
+    <string name="noah5">Wisely</string>
+    <string name="noah6">Feedler</string>
+    <string name="noah7">Mercym</string>
+    <string name="noah8">Wrathra</string>
+    <string name="noah9">Road</string>
+    <string name="noah10_11">Bondomu (Jasudero and Debitto)</string>
+    <string name="noah12">Lulu Bell</string>
+    <string name="noah13">Mightra</string>
+    <string name="noah14">Nea D.Campbell</string>
+
+    <string name="noah1_description">Тысячелетний Граф – главный антагонист аниме и манги D.Gray-man. Первый апостол и патриарх Семьи Ноя; истинное имя Ноя – Адам.</string>
+    <string name="noah2_description">Трайд – второй апостол Семьи Ноя, олицетворяющий «Правосудие» Ноя. Следит за тем, чтобы в Семье Ноя не было предателей.</string>
+    <string name="noah3_description">Тики Микк – третий апостол Семьи Ноя, олицетворяющий «Удовольствие» Ноя. Имя Ноя – Джойд.</string>
+    <string name="noah4_description">Шерил Камелот – четвёртый апостол Семьи Ноя, а также текущая инкарнация Дизайяса. Олицетворяет «Желание» Ноя.</string>
+    <string name="noah5_description">Вайзли, также известный как «Демонический Глаз» Вайзли – пятый апостол Семьи Ноя, олицетворяющий «Мудрость» Ноя.  Имя его реинкарнированной формы неизвестно.</string>
+    <string name="noah6_description">Фиддлер – шестой апостол Семьи Ноя, олицетворяющий «Гниение» Ноя.</string>
+    <string name="noah7_description">Мерсим, или Машима – седьмой апостол Семьи Ноя; олицетворяет «Жалость» Ноя.</string>
+    <string name="noah8_description">Скин Борик – восьмой апостол Семьи Ноя, олицетворяющий «Гнев» Ноя. Имя Ноя – Расра (Wrathra).</string>
+    <string name="noah9_description">Роад Камелот – девятый апостол Семьи Ноя, олицетворяющий «Мечту» Ноя.</string>
+    <string name="noah10_11_description">Джасдеби – член Семьи Ноя, олицетворяющий «Узы» Ноя. Является объединённой версией двух близнецов – десятого апостола Дебитто и одиннадцатого апостола Джасдеро.</string>
+    <string name="noah12_description">Лулу Белл – двенадцатый апостол Семьи Ноя, а также текущая инкарнация Ластол. Олицетворяет «Страсть» Ноя.</string>
+    <string name="noah13_description">Майтра – тринадцатый апостол Семьи Ноя, олицетворяющий «Способность» Ноя. Занимается техническими вопросами и является тем, кто создал Ноев Ковчег и Черепа. Сюжетной активности не проявлено.</string>
+    <string name="noah14_description">Неа Д. Кэмпбелл, также известен как «Четырнадцатый» и «Исполнитель») – предатель и непризнанный член Семьи Ноя.</string>
+</resources>
